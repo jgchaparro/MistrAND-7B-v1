@@ -1,1 +1,4 @@
 .venv
+data/raw/*.jsonl
+data/raw/*.url
+data/raw/2023-04-12_oasst_all.messages.jsonl.gz
