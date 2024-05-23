@@ -10,8 +10,8 @@ import roman
 # Бuelʌa a Eьpaña → Бuelʌa'Ьpaña
 # Keep «para» (verb) 
 
-# Create Conversor class
-class AndalusianConversor:
+# Create Converter class
+class AndalusianConverter:
 
     def __init__(self, 
                  rotacism: bool = False):
